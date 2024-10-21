@@ -1,0 +1,38 @@
+{
+    "gift": [
+        "{name}, your tribute pleases me!",
+        "Ah, {name}, with {count} diamonds, you strengthen my power!",
+        "{name}, you are worthy... for now.",
+        "Your generosity is noted, {name}!",
+        "{name}, your offering will not be forgotten.",
+        "{name}, such generosity! You shall be spared... this time.",
+        "The diamonds flow, {name}, and so does my power!",
+        "{name}, your wealth feeds my strength!",
+        "{name}, your diamonds bring me closer to victory!",
+        "Another gift from {name}! The power grows!"
+    ],
+    "comment": [
+        "{name}, you dare challenge me?!",
+        "Silence, {name}, or face my wrath!",
+        "Hah! Nice try, {name}!",
+        "Speak again, {name}, and you shall regret it!",
+        "{name}, your words amuse me, but they won't save you.",
+        "Do you really think you can intimidate me, {name}?",
+        "{name}, your courage is commendable, yet foolish.",
+        "{name}, such insolence will be your downfall!",
+        "{name}, I will not be swayed by your words!",
+        "{name}, your bravery borders on madness!"
+    ],
+    "subscription": [
+        "{name}, welcome to my inner circle!",
+        "{name}, you've chosen wisely!",
+        "{name}, loyalty shall not be forgotten... or will it?",
+        "{name}, your subscription empowers my dominion!",
+        "{name}, together we shall conquer all!",
+        "{name}, your loyalty fuels my dark ambitions!",
+        "{name}, the alliance grows stronger with you!",
+        "{name}, your allegiance is invaluable!",
+        "{name}, welcome to the ranks of the victorious!",
+        "{name}, with your loyalty, we are unstoppable!"
+    ]
+}

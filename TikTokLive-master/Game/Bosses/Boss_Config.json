@@ -1,0 +1,87 @@
+{
+    "Creature": {
+        "columns": 9,
+        "rows": 6,
+        "scale_factor": 1.5,
+        "action_mapping": {
+            "thrust_attack_bite": {
+                "row": 0,
+                "start_frame": 0,
+                "end_frame": 5
+            },
+            "run_right": {
+                "row": 0,
+                "start_frame": 6,
+                "end_frame": 8,
+                "next_row": 1,
+                "next_start_frame": 0,
+                "next_end_frame": 2
+            },
+            "run_left": {
+                "row": 0,
+                "start_frame": 6,
+                "end_frame": 8,
+                "mirror": true
+            },
+            "spear_thrust_attack": {
+                "row": 1,
+                "start_frame": 3,
+                "end_frame": 8
+            },
+            "idle": {
+                "row": 2,
+                "start_frame": 0,
+                "end_frame": 2
+            },
+            "overhead_attack": {
+                "row": 2,
+                "start_frame": 3,
+                "end_frame": 8
+            },
+            "spear_block": {
+                "row": 3,
+                "start_frame": 0,
+                "end_frame": 5
+            },
+            "attack_with_crouch_idle": {
+                "row": 3,
+                "start_frame": 6,
+                "end_frame": 8,
+                "next_row": 4,
+                "next_start_frame": 0,
+                "next_end_frame": 5
+            },
+            "hit_to_overhead_attack": {
+                "row": 4,
+                "start_frame": 0,
+                "end_frame": 5
+            },
+            "victory_taunt": {
+                "row": 5,
+                "start_frame": 0,
+                "end_frame": 2
+            },
+            "special_attack_with_taunt": {
+                "row": 5,
+                "start_frame": 0,
+                "end_frame": 8
+            },
+            "jump_backward": {
+                "row": 5,
+                "start_frame": 6,
+                "end_frame": 8
+            },
+            "jump_left": {
+                "row": 5,
+                "start_frame": 6,
+                "end_frame": 8,
+                "mirror": true
+            },
+            "death": {
+                "row": 5, 
+                "start_frame": 0,
+                "end_frame": 5 
+            }
+        }
+    }
+}
